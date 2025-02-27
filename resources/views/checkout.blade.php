@@ -76,7 +76,8 @@
                             <strong>Total</strong>
                             <span>$10.00</span>
                         </div>
-                        <a href="#" class="btn btn-primary w-100 mt-3">← Back to Cart</a>
+                        <a href="#" class="btn btn-primary w-100 mt-3"><i class="bi bi-arrow-left"></i> Back to
+                            Cart</a>
                     </div>
                 </div>
             </div>

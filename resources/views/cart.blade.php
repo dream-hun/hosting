@@ -4,7 +4,7 @@
 @endsection
 @section('content')
     <!-- cart + summary -->
-    <section class="bg-white my-5">
+    <section class="bg-light my-5">
         <div class="container">
             <div class="row">
                 <!-- cart -->
@@ -90,7 +90,7 @@
 
                             <div class="mt-3">
                                 <a href="#" class="btn btn-success w-100 shadow-0 mb-2"> Make Purchase </a>
-                                <a href="#" class="btn btn-light w-100 border mt-2"> Back to shop </a>
+                                <a href="#" class="btn btn-light w-100 border mt-2">Back to shop </a>
                             </div>
                         </div>
                     </div>
